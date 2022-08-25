@@ -1,0 +1,12 @@
+E:\repos\github-actions-test\src\FakeCode\FakeCode\bin\Debug\net6.0\FakeCode.deps.json
+E:\repos\github-actions-test\src\FakeCode\FakeCode\bin\Debug\net6.0\FakeCode.dll
+E:\repos\github-actions-test\src\FakeCode\FakeCode\bin\Debug\net6.0\FakeCode.pdb
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.csproj.AssemblyReference.cache
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.AssemblyInfoInputs.cache
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.AssemblyInfo.cs
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.csproj.CoreCompileInputs.cache
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.dll
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\refint\FakeCode.dll
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\FakeCode.pdb
+E:\repos\github-actions-test\src\FakeCode\FakeCode\obj\Debug\net6.0\ref\FakeCode.dll
